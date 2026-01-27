@@ -52,6 +52,3 @@ I blend **brand clarity** with **backend logic**, building experiences that are 
 </p>
 
 ---
-
-## 📊 GitHub Stats
-![Ichty's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
