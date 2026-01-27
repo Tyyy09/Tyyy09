@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C896&width=520&lines=Hi%2C+I'm+Ichty;Designer+turned+developer;Building+clean+semantic+experiences)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C896&width=520&lines=Hi%2C+I'm+Ichty;Designer+and+developer;Building+clean+semantic+experiences)
 
 # Hi there 👋, I’m Ichty
 
