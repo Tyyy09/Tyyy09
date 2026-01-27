@@ -2,7 +2,7 @@
 
 # Hi there 👋, I’m Ichty
 
-💼 International Computer Programming student • Graphic & Web Designer • Future Full‑Stack Developer  
+💼 Computer Programming student - Graphic & Web Designer - Web Developer  
 
 I blend **brand clarity** with **backend logic**, building experiences that are clean, semantic, and production‑ready.
 
@@ -16,9 +16,9 @@ I blend **brand clarity** with **backend logic**, building experiences that are 
 ---
 
 ## 🧰 Tech & Tools
-**Languages:** PHP • JavaScript • C# • SQL  
-**Frameworks:** Node.js • Express • ASP.NET  
-**Frontend:** HTML • CSS • Tailwind  
+**Languages:** PHP • JavaScript • PYTHON • JAVA • C# • SQL  
+**Frameworks:** REACTJS • ASP.NET  
+**Frontend:** HTML • CSS • JS  
 **Design:** Figma • Adobe Suite  
 
 ---
