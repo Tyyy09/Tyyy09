@@ -4,7 +4,7 @@
 
 💼 International Computer Programming student • Graphic & Web Designer • Future Full‑Stack Developer  
 
-I blend **brand clarity** with **backend logic** — from playful food menus to production‑ready apps.
+I blend **brand clarity** with **backend logic** from playful food menus to production‑ready apps.
 
 ---
 
