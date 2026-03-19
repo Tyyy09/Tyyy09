@@ -2,7 +2,7 @@
 
 # Hi there 👋, I’m Ichty
 
-💼 Computer Programming student - Graphic & Web Designer - Web Developer  
+💼 Computer Programming student - Software Engineer/Developer 
 
 I blend **brand clarity** with **backend logic**, building experiences that are clean, semantic, and production‑ready.
 
